@@ -29,12 +29,12 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
-<img width="916" height="1456" alt="image" src="https://github.com/user-attachments/assets/15d36d9d-dcb7-424b-a5e6-42867cca0fe7" />
+<img width="1024" height="1600" alt="image" src="https://github.com/user-attachments/assets/bff4cbe9-5c41-45b3-a342-49fa63da29d1" />
 
 
 
 **TABULATION:**
-<img width="1291" height="1600" alt="image" src="https://github.com/user-attachments/assets/faff0f05-9b88-46d0-8188-10ae32eba591" />
+<img width="1596" height="1600" alt="image" src="https://github.com/user-attachments/assets/80608727-7566-43b3-b279-f65f14745880" />
 
 **PROCEDURE:**
 a)	Connect the circuit as shown in fig. & switch ‘ON’ the experimentalboard.
@@ -44,15 +44,15 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 Theoretical Calculation:
-<img width="1590" height="835" alt="image" src="https://github.com/user-attachments/assets/a0d1da9b-6070-42a6-bc05-75943ad129a6" />
-<img width="882" height="1585" alt="image" src="https://github.com/user-attachments/assets/f92abffc-f113-4665-b138-16289421e5da" />
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/7bdf9b76-97bc-47b1-a9b6-bf76841edbee" />
+<img width="1015" height="1600" alt="image" src="https://github.com/user-attachments/assets/af4c567e-9b54-4085-b38e-5b8eb4887aa1" />
 
 Graph:
-<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/0dd0d14a-7c3d-419f-a101-1cc3ca664a16" />
-<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/2d4dc5e0-3bff-4193-a536-ebe21b4fd648" />
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/8fb3067f-e77b-4845-9bf7-0bdf1d149756" />
+<img width="1369" height="473" alt="image" src="https://github.com/user-attachments/assets/72545761-8ac5-4afa-b863-7963e6766ba4" />
 
 **Mark split up:**
-<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/d0066c78-b81a-478c-9647-15eb5f45bd87" />
+<img width="1600" height="1141" alt="image" src="https://github.com/user-attachments/assets/ca3dce80-2050-450c-999b-81a8b246527d" />
 
 
 **RESULT:**
